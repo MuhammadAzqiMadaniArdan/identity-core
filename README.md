@@ -1,4 +1,5 @@
 # Identity Core – User Authentication & Management System
+<img width="1920" height="1162" alt="Login-IC" src="https://github.com/user-attachments/assets/3778e3a8-0377-4ea6-ac6c-3923647eb989" />
 
 Identity Core adalah sistem autentikasi dan manajemen user berbasis Laravel yang mendukung OAuth 2.0 dengan PKCE dan login sosial melalui Laravel Socialite, serta manajemen token API menggunakan Laravel Passport. Sistem ini dirancang untuk memberikan autentikasi yang aman dan fleksibel bagi aplikasi web maupun mobile.
 
